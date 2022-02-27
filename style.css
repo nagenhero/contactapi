@@ -1,0 +1,11 @@
+.wrapper
+{
+    min-height: 100vh;
+    background:linear-gradient(to right, rgba(0, 132, 255, 0.527), rgba(115, 255, 0, 0.164));
+}
+.user-card span{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    background: magenta;
+}
